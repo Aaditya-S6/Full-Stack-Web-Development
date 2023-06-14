@@ -37,3 +37,28 @@ console.log(C);
 // typeof(variableName) -> Gives type of variable
 
 
+let num1=10;
+let num2=10.10;
+let num3=-199;
+console.log(num1)
+console.log(num2)
+console.log(num3)
+console.log(typeof(num1))
+console.log(typeof(num2))
+console.log(typeof(num3))
+
+//Mathematical Operations
+let num4=num1*num2
+console.log(num4)
+
+// Rule (PEMDAS) > Operator Priority
+// P > parenthesis
+// E > Exponential
+// M > Mutiply
+// D > Divide
+// A > Addition 
+// S > Subtraction
+let ans=(1*2 - (3-4) + 3**2 /2)
+console.log(ans)
+
+
