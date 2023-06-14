@@ -20,4 +20,8 @@ let my_name_is_Aaditya=true;
 // 4.kabab case
 // let first-name='Aaditya' -->It is InValid
 
+let firstName='Aaditya';
+let anotherName=firstName;
+console.log(firstName)
+console.log(anotherName)
 
