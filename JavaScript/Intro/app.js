@@ -25,3 +25,15 @@ let anotherName=firstName;
 console.log(firstName)
 console.log(anotherName)
 
+let A='Aaditya';
+let B='Saraswat';
+let C=A+" "+B;
+console.log(C);
+
+//There is nothing like character
+// in JS. Even a single length word
+// is a String.
+
+// typeof(variableName) -> Gives type of variable
+
+
